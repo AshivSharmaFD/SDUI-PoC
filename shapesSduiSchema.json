@@ -1,0 +1,8 @@
+{ 
+    "section": {
+        "type": "ShapesListSection",
+        "sectionComponentType": "ShapesList",
+        "shapesData": []
+    }
+    
+}
